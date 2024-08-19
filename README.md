@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Shafin-Ahamed
 - 👀 I’m interested in work as a Data Engineer (Jr/Mid) or Analyst (Jr/Mid)
-- 🌱 I’m currently working on sharpening my Spark, Python, SQL, and Orchestration skills.
+- 🌱 I’m currently working on sharpening my Spark, Python, SQL, and cloud/architecture skills.
+- 📓 Just a heads up, the format for my project names are {Architecture/Language}-{ProjectName}-Project
 - 💞️ I’m looking to collaborate on ETL projects, Data Engineering projects, and any other related activities.
 - 📫 How to reach me, email: ashafin372@gmail.com, cell: 917-244-4441
 - 😄 Pronouns: He/Him
