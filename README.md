@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @Shafin-Ahamed
+- 👀 I’m interested in work as a Data Engineer (Jr/Mid) or Analyst (Jr/Mid)
+- 🌱 I’m currently working on sharpening my Spark, Python, SQL, and Orchestration skills.
+- 💞️ I’m looking to collaborate on ETL projects, Data Engineering projects, and any other related activities.
+- 📫 How to reach me, email: ashafin372@gmail.com, cell: 917-244-4441
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I also enjoy building PC's! Goal is to add more RAM to my motherboard :)
+
+<!---
+Shafin-Ahamed/Shafin-Ahamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
